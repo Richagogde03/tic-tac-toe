@@ -4,6 +4,9 @@ Play against a friend on the same device with an intuitive UI and smooth gamepla
 
 Features:-
 1.Two-player mode (no AI)
+
 2.Responsive design for different screen sizes
+
 3.Highlights winning combinations
+
 4.Reset button to start a new game easily
